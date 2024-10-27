@@ -1,8 +1,13 @@
-// SMLFConfiguration.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 #include <iostream>
+#include "Sniper.h"
+#include "Ajedrez.h"
+#include "Fondo.h"
+#include "Plataformas.h"
+#include "Rotacion.h"
+#include "Cuadrados.h"
+#include "Transparencias.h"
 using namespace sf;
 
 Texture _circuloAzul;
@@ -10,27 +15,15 @@ Sprite _spriteCirculoAzul;
 
 int main()
 {
-	_circuloAzul.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/bcircle.png");
-
-	sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Transparencias");
-
-	_spriteCirculoAzul.setTexture(_circuloAzul);
-	//_spriteCirculoAzul.setOrigin(190, 190);
-	_spriteCirculoAzul.setPosition(210, 110);
-
-	while (App.isOpen())
-	{
-		App.clear();
-		App.draw(_spriteCirculoAzul);
-		App.display();
-	}
+	//Sniper sniper;
+	//Ajedrez ajedrez;
+	//Fondo fondo;
+	//Plataformas plataformas;
+	//Rotacion rotacion;
+	//Cuadrados cuadrados;
+	//Transparencias transparencias;
 	return 0;
 }
-
-
-
-
-
 
 
 

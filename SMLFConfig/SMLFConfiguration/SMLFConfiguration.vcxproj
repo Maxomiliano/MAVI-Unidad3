@@ -130,7 +130,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ajedrez.cpp" />
+    <ClCompile Include="Cuadrados.cpp" />
+    <ClCompile Include="Fondo.cpp" />
+    <ClCompile Include="Plataformas.cpp" />
+    <ClCompile Include="Rotacion.cpp" />
     <ClCompile Include="SMLFConfiguration.cpp" />
+    <ClCompile Include="Sniper.cpp" />
+    <ClCompile Include="Transparencias.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ajedrez.h" />
+    <ClInclude Include="Cuadrados.h" />
+    <ClInclude Include="Fondo.h" />
+    <ClInclude Include="Plataformas.h" />
+    <ClInclude Include="Rotacion.h" />
+    <ClInclude Include="Sniper.h" />
+    <ClInclude Include="Transparencias.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

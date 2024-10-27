@@ -1,10 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\C\u00F3digo\\SMFL\\SMLFConfig\\",
+  "WorkspaceRootPath": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\C\u00F3digo\\SMFL\\SMLFConfig\\SMLFConfiguration\\SMLFConfiguration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Transparencias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Transparencias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\SMLFConfiguration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\SMLFConfiguration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Rotacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Rotacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Plataformas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Plataformas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Fondo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Fondo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Cuadrados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Cuadrados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Ajedrez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Ajedrez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Sniper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Sniper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Transparencias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Transparencias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Cuadrados.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Cuadrados.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Rotacion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Rotacion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Plataformas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Plataformas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Fondo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Fondo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Ajedrez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECD54712-32A1-4638-9F5A-366F58DD17A3}|SMLFConfiguration\\SMLFConfiguration.vcxproj|solutionrelative:SMLFConfiguration\\Ajedrez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +83,181 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Transparencias.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Transparencias.cpp",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Transparencias.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Transparencias.cpp",
+              "RelativeToolTip": "SMLFConfiguration\\Transparencias.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T21:13:55.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transparencias.h",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Transparencias.h",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Transparencias.h",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Transparencias.h",
+              "RelativeToolTip": "SMLFConfiguration\\Transparencias.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T21:12:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuadrados.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Cuadrados.cpp",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Cuadrados.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Cuadrados.cpp",
+              "RelativeToolTip": "SMLFConfiguration\\Cuadrados.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T21:02:21.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cuadrados.h",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Cuadrados.h",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Cuadrados.h",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Cuadrados.h",
+              "RelativeToolTip": "SMLFConfiguration\\Cuadrados.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T21:02:10.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rotacion.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Rotacion.cpp",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Rotacion.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Rotacion.cpp",
+              "RelativeToolTip": "SMLFConfiguration\\Rotacion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T20:59:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rotacion.h",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Rotacion.h",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Rotacion.h",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Rotacion.h",
+              "RelativeToolTip": "SMLFConfiguration\\Rotacion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:58:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plataformas.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Plataformas.cpp",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Plataformas.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Plataformas.cpp",
+              "RelativeToolTip": "SMLFConfiguration\\Plataformas.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T20:50:34.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Plataformas.h",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Plataformas.h",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Plataformas.h",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Plataformas.h",
+              "RelativeToolTip": "SMLFConfiguration\\Plataformas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:50:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fondo.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Fondo.cpp",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Fondo.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Fondo.cpp",
+              "RelativeToolTip": "SMLFConfiguration\\Fondo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T20:45:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fondo.h",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Fondo.h",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Fondo.h",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Fondo.h",
+              "RelativeToolTip": "SMLFConfiguration\\Fondo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:45:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ajedrez.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Ajedrez.cpp",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Ajedrez.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Ajedrez.cpp",
+              "RelativeToolTip": "SMLFConfiguration\\Ajedrez.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T20:35:54.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sniper.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Sniper.cpp",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Sniper.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Sniper.cpp",
+              "RelativeToolTip": "SMLFConfiguration\\Sniper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T19:35:44.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ajedrez.h",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Ajedrez.h",
+              "RelativeDocumentMoniker": "SMLFConfiguration\\Ajedrez.h",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\Ajedrez.h",
+              "RelativeToolTip": "SMLFConfiguration\\Ajedrez.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T20:35:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SMLFConfiguration.cpp",
-              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\C\u00F3digo\\SMFL\\SMLFConfig\\SMLFConfiguration\\SMLFConfiguration.cpp",
+              "DocumentMoniker": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\SMLFConfiguration.cpp",
               "RelativeDocumentMoniker": "SMLFConfiguration\\SMLFConfiguration.cpp",
-              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\C\u00F3digo\\SMFL\\SMLFConfig\\SMLFConfiguration\\SMLFConfiguration.cpp",
+              "ToolTip": "D:\\Max\\FACU\\Materias\\Modelos y Algoritmos para Videojuegos I\\Unidad3Mavi\\MAVI-Unidad3\\SMLFConfig\\SMLFConfiguration\\SMLFConfiguration.cpp",
               "RelativeToolTip": "SMLFConfiguration\\SMLFConfiguration.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-08T14:45:12.714Z",
               "EditorCaption": ""
