@@ -13,8 +13,8 @@ Ajedrez::Ajedrez()
 	Sprite _spriteSquare;
 
 
-	_textureBlackSquare.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/chessb.png");
-	_textureWhiteSquare.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/chessw.png");
+	_textureBlackSquare.loadFromFile("chessb.png");
+	_textureWhiteSquare.loadFromFile("chessw.png");
 
 	sf::RenderWindow App(sf::VideoMode(800, 800, 32), "Ajedrez");
 

@@ -9,7 +9,7 @@ Rotacion::Rotacion()
 	Texture _cuadradoAzul;
 	Sprite _spriteCuadrado;
 
-	_cuadradoAzul.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/cuad_blue.png");
+	_cuadradoAzul.loadFromFile("cuad_blue.png");
 
 	sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Rotacion");
 

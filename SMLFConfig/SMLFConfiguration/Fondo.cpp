@@ -9,7 +9,7 @@ Fondo::Fondo()
 	Texture _fondo;
 	Sprite _spriteBackground;
 
-	_fondo.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/fondo.jpg");
+	_fondo.loadFromFile("fondo.jpg");
 
 	sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Fondo");
 

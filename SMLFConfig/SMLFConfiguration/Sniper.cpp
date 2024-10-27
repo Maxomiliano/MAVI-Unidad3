@@ -13,7 +13,8 @@ Sniper::Sniper()
 	Sprite _sprite_red_dot_downright;
 
 
-	_texture_red_dot.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/rcircle.png");
+	//_texture_red_dot.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/rcircle.png");
+	_texture_red_dot.loadFromFile("rcircle.png");
 	_sprite_red_dot_upleft.setTexture(_texture_red_dot);
 	_sprite_red_dot_upright.setTexture(_texture_red_dot);
 	_sprite_red_dot_downleft.setTexture(_texture_red_dot);

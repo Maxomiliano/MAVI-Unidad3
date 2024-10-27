@@ -37,10 +37,10 @@ Cuadrados::Cuadrados()
 	float heightCuadradoNegro;
 	float widthCuadradoNegro;
 
-	_cuadradoRojo.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/cuad_red.png");
-	_cuadradoAmarillo.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/cuad_yellow.png");
-	_cuadradoAzul.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/cuad_blue.png");
-	_cuadradoNegro.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/chessb.png");
+	_cuadradoRojo.loadFromFile("cuad_red.png");
+	_cuadradoAmarillo.loadFromFile("cuad_yellow.png");
+	_cuadradoAzul.loadFromFile("cuad_blue.png");
+	_cuadradoNegro.loadFromFile("chessb.png");
 
 	sf::RenderWindow App(sf::VideoMode(1024, 1024, 32), "Cuadrados");
 

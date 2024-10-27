@@ -9,11 +9,10 @@ Plataformas::Plataformas()
 
 	Texture _plataforma;
 	Texture _plataformaNegra;
-
 	Sprite _spritePlatform;
 
-	_plataforma.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/plataforma.jpg");
-	_plataformaNegra.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/chessb.png");
+	_plataforma.loadFromFile("plataforma.jpg");
+	_plataformaNegra.loadFromFile("chessb.png");
 
 	sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Plataformas");
 

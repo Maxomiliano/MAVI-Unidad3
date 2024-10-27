@@ -9,7 +9,7 @@ Transparencias::Transparencias()
 	Texture _circuloAzul;
 	Sprite _spriteCirculoAzul;
 
-	_circuloAzul.loadFromFile("D:/Max/FACU/Materias/Modelos y Algoritmos para Videojuegos I/Unidad3_Assets/bcircle.png");
+	_circuloAzul.loadFromFile("bcircle.png");
 
 	sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Transparencias");
 
